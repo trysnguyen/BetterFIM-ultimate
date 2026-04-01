@@ -1,5 +1,5 @@
-Leiden algorithm for community detection
-Reverse Influence Sampling
-Elitism selection strategy
-Diversity garantee
-Local Search
+ - Leiden algorithm for community detection
+ - Reverse Influence Sampling
+ - Elitism selection strategy
+ - Diversity garantee
+ - Local Search
